@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "851486089202",
+    "project_id": "isc-slot-booking",
+    "storage_bucket": "isc-slot-booking.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:851486089202:android:144e0d31e4a9f3aea5156b",
+        "android_client_info": {
+          "package_name": "com.android.iscslotbooking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "851486089202-id3kaat0bkjoftf6gcgcfk89r993a9tj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.android.iscslotbooking",
+            "certificate_hash": "3962a89db116dc6d164f1f8022937cd505a90e3f"
+          }
+        },
+        {
+          "client_id": "851486089202-enfvcb30qu2akbqamn32iih7vg6rihp7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNmEJZNbkXDFYeDC8kIunGbjEeuE2sV0M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "851486089202-enfvcb30qu2akbqamn32iih7vg6rihp7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
